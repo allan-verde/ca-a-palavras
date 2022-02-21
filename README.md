@@ -15,4 +15,7 @@ O jogo de caça-palavras, ou sopa de letras, é um passatempo que consiste de le
   <img width="48%" src="https://user-images.githubusercontent.com/97132510/155029430-1ef68b44-6f25-4763-b67e-c1c74e5ec76e.png" alt="você ganhou no caça-palavra"/>
   <img width="48%" src="https://user-images.githubusercontent.com/97132510/155029436-302e4881-83ff-4e13-bd85-307e987f9482.png" alt="Jogando o caça-palavra"/>
 </div>
+<div>
+  <img src="https://user-images.githubusercontent.com/97132510/155032660-5713d372-6ca8-4be8-acb4-7943df8901ea.png" width="96%" />
+</div>
 
