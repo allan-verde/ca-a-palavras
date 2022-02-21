@@ -8,6 +8,7 @@ O jogo de caça-palavras, ou sopa de letras, é um passatempo que consiste de le
 * As palavras estão posicionadas horizontalmente.
 * Você terá 30 segundos para encontrar as palavras escondidas.
 * Este caça-palavras tem como tema frutas.
+* Jogo desenvolvido com HTML, CSS e JAVASCRIPT puro.
 
 #### Link do deploy no vercel: <a target="_blank" href="https://entrega-construa-um-jogo-de-azar-sprint-3-allan-verde.vercel.app/">caça palavras</a>
 
